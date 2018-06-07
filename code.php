@@ -1,3 +1,4 @@
+<?php
 //ADD TEMPLATE TO PLUGIN WORDPRESS EASY WAY
 
 function add_template_to_page_my_own_function( $page_template )
